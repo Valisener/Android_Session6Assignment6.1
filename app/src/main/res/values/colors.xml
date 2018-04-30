@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- primary color -->
+    <color name="colorPrimary">#09d6ff</color>
+    <!--Color primary dark Didnt change didnt remove since its required to be there-->
+    <color name="colorPrimaryDark">#1d3cfc</color>
+    <!--Color accent Didnt really mess with this all that much but not used -->
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!--This is the color for the Edit Box Fields password and email the white background-->
+    <color name="colorInputBoxes">#ffffff</color>
+    <!--This is the Color for the login background button did an image capture on the assignment pic
+    then i used a color picker to get a match for what color was used for the button login
+    background     -->
+
+    <color name="colorButtonLoginBackground">#8db3f2</color>
+    <!-- This is the Background color for the app i could use the same one for button text
+    but in the real world if i was making an app id do it this way so i could change it later on
+    to some other color very easily instead of that.-->
+    <color name="colorBackground">#ae5ef9</color>
+
+
+    <!--This is the color for the button text for the login-->
+    <color name="colorButtonText">#fa0bae</color>
+
+
+</resources>

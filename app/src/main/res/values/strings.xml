@@ -1,0 +1,10 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">LoginScreen</string>
+    <!-- Text for the login button saying LOGIN@ -->
+    <string name="login">LOGIN</string>
+    <!-- Hint text for the email text box that asks for Username-->
+    <string name="hintUsername">Username</string>
+    <!-- Hint text for the password text box  that asks for Password-->
+    <string name="hintPassword">Password</string>
+</resources>

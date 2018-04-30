@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Padding property for the edit boxes-->
+    <dimen name="padding">8dp</dimen>
+    <!-- Edit box on Username Password and login button Width setting -->
+    <dimen name="editBoxWidth">300dp</dimen>
+    <!-- Edit box on Username Password and login button Height setting-->
+    <dimen name="editBoxHeight">25dp</dimen>
+    <!--  Margin setting-->
+    <dimen name="margin">10dp</dimen>
+</resources>
