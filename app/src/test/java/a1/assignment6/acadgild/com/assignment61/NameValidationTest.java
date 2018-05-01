@@ -19,9 +19,9 @@ public class NameValidationTest {
         assertTrue(UserNameValidator.isValidUsername("Smith"));
     }
 
-//    This method tests names that should fail. Returns false if they fail
+//    This method tests names that should fail. Returns true if they fail
     @Test
-    public void nameValidator_FailTest_ReturnsFalse() {
+    public void nameValidator_FailTest_ReturnsTrue() {
         assertFalse(UserNameValidator.isValidUsername("Jack902"));
         assertFalse(UserNameValidator.isValidUsername("Samantha Carter"));
     }
